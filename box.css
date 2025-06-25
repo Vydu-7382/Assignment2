@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    
+   
+}
+.column{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.box{
+    margin: 50px;
+    padding: 40px;
+    border-radius: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    
+}
+
